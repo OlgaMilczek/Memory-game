@@ -1,6 +1,6 @@
 const photos = [
     {
-        url: '/images/abra.png',
+        url: './images/abra.png',
         clicked: false,
         id: 1,
         name: 'Abra'
