@@ -1,6 +1,6 @@
 # Simple memory card game
 
-https://olganowakowska.github.io/Memory-game/
+https://olgamilczek.github.io/Memory-game/
 
 # Getting Started with Create React App
 
