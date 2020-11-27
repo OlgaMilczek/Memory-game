@@ -1,6 +1,7 @@
 # Simple memory card game
 
 https://olgamilczek.github.io/Memory-game/
+Desktop support only!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
